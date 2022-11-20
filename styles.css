@@ -1,0 +1,17 @@
+.sumbg {
+	 background-color: pink;
+	 text-align:center;
+       }
+
+.autbg {
+	background-color: grey;
+	 text-align:center;}
+
+.winbg {background-color: black;
+	color: white;
+	text-align:center;}
+
+img {
+	border-radius: 5%;
+     	border: double 2px black;
+	}
